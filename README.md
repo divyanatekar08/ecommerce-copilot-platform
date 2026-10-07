@@ -9,7 +9,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=for-for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 [![Stripe](https://img.shields.io/badge/Stripe_Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
 
