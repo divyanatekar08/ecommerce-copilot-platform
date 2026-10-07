@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛍️ Real-Time Intelligent E-Commerce Copilot
+# 🛒 Real-Time Intelligent E-Commerce Copilot
 
 **An Enterprise-Grade, Asynchronous E-Commerce Engine Powered by FastAPI & LangGraph Agentic Search**
 
